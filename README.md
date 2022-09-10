@@ -1,3 +1,3 @@
-# Weather Now #
+# Weather Channel #
 
 ## About ##
