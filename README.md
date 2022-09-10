@@ -1,3 +1,3 @@
-# Current-Weather #
+# Weather Now #
 
 ## About ##
